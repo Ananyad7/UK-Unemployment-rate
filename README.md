@@ -12,6 +12,6 @@ The analysis spans from 1971 to 2023, revealing an average unemployment rate of 
 ![Tableau - Uk_Unemployment_Rate 02-05-2024 23_47_37](https://github.com/Ananyad7/UK-Unemployment-rate/assets/164981636/de182c45-e3fc-48f7-b0a8-a72375ad2731)
 
 # Decadal
-![Tableau - Uk_Unemployment_Rate 02-05-2024 23_47_37](https://github.com/Ananyad7/UK-Unemployment-rate/assets/164981636/e7f38cf8-c7a1-4429-b53a-d9182f9e65d0)
+![Tableau - Uk_Unemployment_Rate 02-05-2024 23_47_52](https://github.com/Ananyad7/UK-Unemployment-rate/assets/164981636/997dadf0-9004-487a-b7e4-fb780ecf1d23)
 
 Linkedin link: https://www.linkedin.com/posts/7ananyadas_mom2024-makeovermonday-tableau-activity-7184882885542240256-pXod?utm_source=share&utm_medium=member_desktop
